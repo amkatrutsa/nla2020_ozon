@@ -7,4 +7,4 @@
 | 22.09.2020 | [Linear systems](./lectures/lecture3/lecture3.ipynb) | [Seminar 3](./seminars/seminar3/seminar3.ipynb) | [HW1](./hw/hw1/hw1.ipynb) <br> (Deadline: October, 20, 02:00)
 | 29.09.2020 | [Matrix multiplication. QR factorization](./lectures/lecture4/lecture4.ipynb) | [Seminar 4](./seminars/seminar4/seminar4.ipynb) | 
 | 06.10.2020 | [Eigenvalues and eigenvectors. Schur decomposition and how we compute it](./lectures/lecture5/lecture5.ipynb) | [Seminar 5](./seminars/seminar5/seminar5.ipynb) |
-| 13.10.2020 | [SVD and how we compute it](./lectures/lecture6/lecture6.ipynb) | Seminar 6 |
+| 13.10.2020 | [SVD and how we compute it](./lectures/lecture6/lecture6.ipynb) | [Seminar 6](./seminars/seminar6/seminar6.ipynb) |
