@@ -8,3 +8,4 @@
 | 29.09.2020 | [Matrix multiplication. QR factorization](./lectures/lecture4/lecture4.ipynb) | [Seminar 4](./seminars/seminar4/seminar4.ipynb) | 
 | 06.10.2020 | [Eigenvalues and eigenvectors. Schur decomposition and how we compute it](./lectures/lecture5/lecture5.ipynb) | [Seminar 5](./seminars/seminar5/seminar5.ipynb) |
 | 13.10.2020 | [SVD and how we compute it](./lectures/lecture6/lecture6.ipynb) | [Seminar 6](./seminars/seminar6/seminar6.ipynb) |
+| 20.10.2020 | [Sparse matrices and direct methods for large sparse linear systems. Spectral partitioning and Fiedler vector](./lectures/lecture7/lecture7.ipynb) | Seminar 7 |
