@@ -11,4 +11,4 @@
 | 20.10.2020 | [Sparse matrices and direct methods for large sparse linear systems. Spectral partitioning and Fiedler vector](./lectures/lecture7/lecture7.ipynb) | [Seminar 7](./seminars/seminar7/seminar7.ipynb) |
 | 27.10.2020 | [Introduction to iterative methods for linear systems](./lectures/lecture8/lecture8.ipynb) | Seminar 8 | |
 | 03.11.2020 | [Great iterative methods](./lectures/lecture9/lecture9.ipynb) | [Seminar 9](./seminars/seminar9/seminar9.ipynb) | |
-| 10.11.2020 | [Iterative methods and preconditioners](./lectures/lecture10/lecture10.ipynb) | Seminar 10 | | 
+| 10.11.2020 | [Iterative methods and preconditioners](./lectures/lecture10/lecture10.ipynb) | Seminar 10 | [HW2](./hw/hw2/hw2.ipynb) <br> (Deadline: December, 5, 02:00) 
