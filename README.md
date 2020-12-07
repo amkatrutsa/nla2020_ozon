@@ -15,3 +15,4 @@
 | 17.11.2020 | [Iterative methods for partial eigenvalue problem](./lectures/lecture11/lecture11.ipynb) | [Seminar 11](./seminars/seminar11/seminar11.ipynb) |
 | 24.11.2020 | [Structured matrices, convolutions, FFT, Toeplitz matrices](./lectures/lecture12/lecture-12.ipynb) | [Seminar 12](./seminars/seminar12/seminar12.ipynb) |
 | 01.12.2020 | [Matrix functions and matrix equations](./lectures/lecture13/lecture-13.ipynb) | Seminar 13 | |
+| 08.12.2020 | [Tensor decompositions](./lectures/lecture14/lecture14.ipynb) | Seminar 14 | |
